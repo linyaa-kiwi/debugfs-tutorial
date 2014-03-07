@@ -1,7 +1,7 @@
 ========================================================================
 DebugFS Tutorial
   
-author: Chad Versace <chad@versace.name>
+author: Chad Versace <chad@kiwitree.net>
 date: 2010-05-07
 ========================================================================
 
