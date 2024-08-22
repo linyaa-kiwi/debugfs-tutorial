@@ -1,4 +1,4 @@
-// Copyright 2010, Chad Versace <chad@kiwitree.net>
+// Copyright 2010, Lina Versace <lina@kiwitree.net>
 // 
 // This program is free software: you can redistribute it and/or modify it under
 // the terms of the GNU General Public License as published by the Free Software
@@ -17,7 +17,7 @@
 // DebugFS Tutorial
 // example1
 //
-// author: Chad Versace <chad@kiwitree.net>
+// author: Lina Versace <lina@kiwitree.net>
 // date: 2010-05-07
 // =====================================================================
 
