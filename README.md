@@ -75,3 +75,10 @@ integers to file *add* will increase *sum*.
     $ cat sum
     19
     $ sudo rmmod debugfs_example2
+
+## License
+
+SPDX-License-Identifier: GPL-2.0 OR MIT\
+Copyright 2010 Lina Versace <lina@kiwitree.net>
+
+Indiviual licenses files can be found in the [licenses](./licenses) folder.

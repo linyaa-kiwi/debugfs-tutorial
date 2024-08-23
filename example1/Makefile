@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-2.0 OR MIT
+# Copyright 2010 Lina Versace <lina@kiwitree.net>
+
 obj-m := debugfs_example1.o
 KDIR := /lib/modules/$(shell uname -r)/build
 PWD := $(shell pwd)
