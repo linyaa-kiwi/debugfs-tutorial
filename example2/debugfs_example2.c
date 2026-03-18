@@ -139,12 +139,7 @@ int init_module(void)
     //
     // See also linux-source/fs/debugfs/file.c:debugfs_create_u32
     //
-    junk = debugfs_create_u32("sum", 0444, dir, &sum);
-    if (!junk) {
-        // Abort module load.
-        printk(KERN_ALERT "debugfs_example2: failed to create /sys/kernel/debug/example2/add\n");
-        return -1;
-    }
+    debugfs_create_u32("sum", 0444, dir, &sum);
 
     return 0;
 }
