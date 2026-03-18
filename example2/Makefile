@@ -8,4 +8,4 @@ WARN_FLAGS += -Wall
 
 .PHONY: default
 defualt:
-	$(MAKE) -C $(KDIR) SUBDIRS=$(PWD) modules
+	$(MAKE) -C $(KDIR) M=$(PWD) modules
